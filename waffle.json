@@ -1,0 +1,18 @@
+{
+        "response": [
+                {
+                        "maintainer": "RedLintu16",
+                        "oem": "OnePlus",
+                        "device": "OnePlus 12",
+                        "filename": "RisingOS_Revived_waffle_Version8.1_Google_Applications_No_Accord_or_BCR-OTA.zip",
+                        "download": "https://roms-api.redlintu16.com/waffle/RisingOS-Revived/OTA/RisingOS_Revived_waffle_Version8.1_Google_Applications_No_Accord_or_BCR-OTA.zip",
+                        "timestamp": 1757670751,
+                        "md5": "bc739c6803f1981c3c3382b6c2eb32ed",
+                        "sha256": "82829ede68fd87dd6b927ee86b0e6a30e30eba5620dc166f7c40e420dd926c72",
+                        "size":4100000000 ,
+                        "version": "8.1-Arete",
+                        "buildtype": "STABLE",
+                        "recovery": ""
+                }
+        ]
+}
