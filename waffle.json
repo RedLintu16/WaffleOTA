@@ -1,21 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "RedLintu16",
-			"oem": "OnePlus",
-			"device": "waffle",
-			"filename": "RisingOS_Revived_waffle_Version8.1-OFFICIAL_Google_Applications_No_Accord_No_BCR-OTA.zip",
-			"download": "https://roms-api.redlintu16.com/waffle/RisingOS-Revived/OTA/RisingOS_Revived_waffle_Version8.1_Google_Applications_No_Accord_or_BCR-OTA.zip",
-			"timestamp": 1768927277,
-			"md5": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
-			"sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
-			"size": 4108193324,
-			"version": "8.1-Arete",
-			"buildtype": "STABLE",
-			"forum": "",
-			"recovery": "",
-                        "paypal": "no.com",
-			"telegram": "youtube.com"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "RedLintu16",
+                        "oem": "OnePlus",
+                        "device": "OnePlus 12",
+                        "filename": "RisingOS_Revived-8.1-250915-0758-GAPPS-OFFICIAL-waffle-ota.zip",
+                        "download": "https://roms-api.redlintu16.com/waffle/RisingOS-Revived/OTA/RisingOS_Revived_waffle_Version8.1_Google_Applications_No_Accord_or_BCR-OTA.zip",
+                        "timestamp": 1757915910,
+                        "md5": "c89ecb373e940eb3247363127a78e750",
+                        "sha256": "42f780d9c913a4d2b71f6c9f50063fa41762c2a9449930eb55b0a04aa98c017c",
+                        "size": 4108193324,
+                        "version": "8.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
 }
