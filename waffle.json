@@ -1,13 +1,21 @@
 {
-  "response": [
-    {
-      "datetime": 1768927277,
-      "filename": "RisingOS_Revived_waffle_Version8.1-OFFICIAL_Google_Applications_No_Accord_No_BCR-OTA.zip",
-      "id": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
-      "romtype": "STABLE",
-      "size": 4108193324,
-      "url": "https://roms-api.redlintu16.com/waffle/RisingOS-Revived/OTA/RisingOS_Revived_waffle_Version8.1_Google_Applications_No_Accord_or_BCR-OTA.zip",
-      "version": "8.1-Arete-Test1"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "RedLintu16",
+			"oem": "OnePlus",
+			"device": "waffle",
+			"filename": "RisingOS_Revived_waffle_Version8.1-OFFICIAL_Google_Applications_No_Accord_No_BCR-OTA.zip",
+			"download": "https://roms-api.redlintu16.com/waffle/RisingOS-Revived/OTA/RisingOS_Revived_waffle_Version8.1_Google_Applications_No_Accord_or_BCR-OTA.zip",
+			"timestamp": 1768927277,
+			"md5": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+			"sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+			"size": 4108193324,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+                        "paypal": "no.com",
+			"telegram": "youtube.com"
+		}
+	]
 }
